@@ -25,4 +25,11 @@ I'm a passionate Software Developer with experience in Python, JavaScript, and d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaymaeraja&theme=dark" alt="GitHub Streak"/>
+</p>
 
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/chaymae-rajafillah
+- Email: chaymaeraja633@gmail.com
